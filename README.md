@@ -1,7 +1,6 @@
-# README
+# README by Kunal Puri
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**This is a basic blog created for studying purposes.**
 
 Things you may want to cover:
 
